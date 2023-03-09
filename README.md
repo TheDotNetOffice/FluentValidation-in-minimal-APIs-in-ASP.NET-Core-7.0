@@ -1,0 +1,1 @@
+# FluentValidation-in-minimal-APIs-in-ASP.NET-Core-7.0
